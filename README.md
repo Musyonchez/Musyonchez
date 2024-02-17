@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Musyoka Philip Mutuku, a dynamic and results-driven Front-end Web Developer based in Nairobi, Kenya. Welcome to my GitHub profile, where innovation meets development!
+I'm Musyoka Philip Mutuku, a dynamic and results-driven Web Developer based in Nairobi, Kenya. Welcome to my GitHub profile, where innovation meets development!
 
 #### 🚀 About Me
 
